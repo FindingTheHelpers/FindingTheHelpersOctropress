@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.findingthehelpers.org
+title: Finding The Helpers
+subtitle:  Look for the helpers. You'll always find people who are helping.
+author: Justin Carmony
 simple_search: http://google.com/search
 description:
 
